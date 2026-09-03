@@ -90,17 +90,25 @@ Currently evolving from a visual prototype into a full data-driven platform.
 
 <p align="center">
   <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api?username=Morizqx&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=F80000&text_color=F5F5F5&icon_color=C1121F&ring_color=F80000"
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Morizqx&theme=github_dark&title_color=F80000&text_color=F5F5F5&bg_color=0D0D0F&border_color=57000B&icon_color=C1121F&chart_color=F80000"
     alt="GitHub Stats de Mori"
   />
 
 <img
- height="175"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morizqx&layout=compact&hide_border=true&bg_color=0D0D0F&title_color=F80000&text_color=F5F5F5"
- alt="Top Languages de Mori"
+ height="170"
+ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Morizqx&theme=github_dark&title_color=F80000&text_color=F5F5F5&bg_color=0D0D0F&border_color=57000B&icon_color=C1121F&chart_color=F80000"
+ alt="Linguagens mais usadas por Mori"
 />
 
+</p>
+
+<p align="center">
+  <img
+    width="92%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Morizqx&theme=github_dark&title_color=F80000&text_color=F5F5F5&bg_color=0D0D0F&border_color=57000B&icon_color=C1121F&chart_color=F80000"
+    alt="Resumo do perfil de Mori"
+  />
 </p>
 
 <p align="center">
